@@ -1,4 +1,4 @@
-/about/whats-new    /about/changelog/changelog-latest 		
+/about/whats-new    /about/changelog/latest		
 /about/supported-exchanges  /about/supported-exchanges/supported-exchanges/ 		
 /about/system-requirements  /about/system-requirements/license-info 		
 /setup-and-general-settings/installation    /setup-and-general-settings/installation-and-startup/quickstart 	 	
@@ -104,4 +104,22 @@
 /how-to-work-with-gunbot/extras/alerts-beta /how-to-work-with-gunbot/extra-modules/alerts
 /trading-strategy-options/about-gunbot-strategies/trading-methods /trading-strategy-options/about-gunbot-strategies
 /trading-strategy-options/about-gunbot-strategies/protections   /trading-strategy-options/about-gunbot-strategies
-/how-to-work-with-gunbot/extras/tradingview-add-on/imap-listener    /how-to-work-with-gunbot/extra-modules/imap-listener 		
+/how-to-work-with-gunbot/extras/tradingview-add-on/imap-listener    /how-to-work-with-gunbot/extra-modules/imap-listener
+/about/changelog/latest /about/changelog/latest
+/gunbot-one-quickstart   /quickstart		
+/how-to-work-with-gunbot/strategies-and-pairs/easy-edit /how-to-work-with-gunbot/trading-settings
+/how-to-work-with-gunbot/strategies-and-pairs/strategy-editor   /how-to-work-with-gunbot/trading-settings
+/how-to-work-with-gunbot/strategies-and-pairs/trading-pairs /how-to-work-with-gunbot/trading-settings
+/setup-and-general-settings/global-settings/advanced    /setup-and-general-settings/global-settings/various-settings
+/setup-and-general-settings/global-settings/bot-settings    /setup-and-general-settings/global-settings/various-settings
+/setup-and-general-settings/global-settings/cancel-orders   /setup-and-general-settings/global-settings/various-settings
+/setup-and-general-settings/global-settings/import-settings /setup-and-general-settings/global-settings/import-settings
+/setup-and-general-settings/global-settings/what-are-global-settings /
+/setup-and-general-settings/profile-settings/edit-license   /setup-and-general-settings/global-settings/edit-license
+/setup-and-general-settings/profile-settings/exchanges  /setup-and-general-settings/global-settings/connect-exchange
+/setup-and-general-settings/profile-settings/gui-authentication /setup-and-general-settings/global-settings/2FA
+/setup-and-general-settings/profile-settings/gunthy-wallet  /setup-and-general-settings/global-settings/connect-license
+/setup-and-general-settings/profile-settings/telegram-notifications /setup-and-general-settings/global-settings/telegram-notifications
+/setup-and-general-settings/profile-settings/tournament /setup-and-general-settings/global-settings/tournament
+/setup-and-general-settings/profile-settings/what-are-profile-settings  /
+
